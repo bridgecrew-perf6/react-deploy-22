@@ -1,0 +1,17 @@
+.nav {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+    
+    
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    margin:0 10px;
+    
+    
+}

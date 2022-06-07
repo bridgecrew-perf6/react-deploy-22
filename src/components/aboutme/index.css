@@ -1,0 +1,9 @@
+#about-me h1 {
+	display: flex;
+	justify-content: left;
+	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	font-style: normal;
+	font-weight: lighter;
+	/* text-align: center; */
+	margin: auto;
+}
